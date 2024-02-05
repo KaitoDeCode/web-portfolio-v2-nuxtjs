@@ -1,5 +1,5 @@
 <template>
-    <div class="container">
+    <div>
         <slot/>
         <app-nabar></app-nabar>
     </div>
